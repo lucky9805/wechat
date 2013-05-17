@@ -1,6 +1,8 @@
 <?php
 /**
-  * wechat php test
+  * wechat
+  * Author:renbaoyong@gmail.com
+  * date : 2013-5-12
   */
 
 //define your token

@@ -11,12 +11,13 @@
 ###Clone 或下载项目源码。
 
    1. 打开 /functions.php 文件， 修改里面的数据库配置信息和欢迎词
+    ![修改数据库配置](http://ww2.sinaimg.cn/large/61ffc92ejw1e4r8bwmduhj20jo05vgmz.jpg)
     
    2. 进入微信公众平台，高级功能，开启开发模式，并设置接口配置信息。其中 URL 为 {yoursite}/weixin.php 的实际位置， Token 为上一步设置的 Token 。
 	
    3. 验证后，把weixin.php删除或者改名字，把weixin-new.php修改为 wexin.php.
 	
-   4. 导入数据库文件 添加数据，您可以参考里面已经有的数据进行修改。
+   4. 导入数据库文件db.sql 添加数据，您可以参考里面已经有的数据进行修改。
     equls类型的为用户输入的内容和关键词完全匹配
     startwith 类型为用户输入的内容以此内容开头，并可以自行定义方法到title中。
     

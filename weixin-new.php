@@ -1,4 +1,9 @@
 <?php
+	/**
+	  * wechat
+	  * Author:renbaoyong@gmail.com
+	  * date : 2013-5-12
+    */
   require_once('functions.php');
   $postStr = $GLOBALS["HTTP_RAW_POST_DATA"];
  
