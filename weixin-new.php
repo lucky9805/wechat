@@ -63,6 +63,7 @@
 					{
 						//有匹配的数据
 						$row			=	mysql_fetch_row($result);
+						$title 			=	$row[1];
 						$type 			=	$row[3];
 						$description 	=	$row[2];
 						$time 			=  time();
