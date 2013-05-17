@@ -26,4 +26,10 @@
 	
 ###向你的微信公众号发送消息并测试吧！
 
+大家可以关注我们进行测试:
+
+ ![我是白领](http://ww4.sinaimg.cn/large/61ffc92ejw1e4rem6mrhfj2076076q3g.jpg)
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我是白领
+
 	
